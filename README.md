@@ -1,4 +1,4 @@
-git-novice
+swc-orientation
 ==========
 
 Introduction to Software Carpentry.
