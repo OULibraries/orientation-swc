@@ -6,8 +6,9 @@ minutes: 10
 ---
 > ## Learning Objectives {.objectives}
 >
-> * Learning objective 1
-> * Learning objective 2
+> * Understand the Software Carpentry Code of Conduct
+> * Find the Etherpad for this workshop
+> * Use color-coded stickies to provide instructor feedback
 
 Paragraphs of text
 --- possibly including [definitions](reference.html#definitions) ---
