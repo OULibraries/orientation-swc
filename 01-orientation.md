@@ -10,41 +10,17 @@ minutes: 10
 > * Find the Etherpad for this workshop
 > * Use color-coded stickies to provide instructor feedback
 
-Paragraphs of text
---- possibly including [definitions](reference.html#definitions) ---
-mixed with:
 
-~~~ {.python}
-some code:
-to be displayed
-~~~
 
-and:
 
-~~~ {.output}
-output
-from
-program
-~~~
+## Software Carpentry Code of Conduct
 
-and:
+To help us maintain a positive workshop environment, the [Software Carpentry](http://software-carpentry.org/conduct.html) Code of Conduct will be in effect at this workshop.
 
-~~~ {.error}
-error reports from programs (if any)
-~~~
 
-and possibly including some of these:
+## Collaborating With Etherpad
 
-> ## Callout Box {.callout}
->
-> An aside of some kind.
 
-and one or more of these at the end:
 
-> ## Challenge Title {.challenge}
->
-> Description of a single challenge,
-> separated from the title by a blank line.
-> There may be several challenges;
-> they should all come at the end of the file,
-> and each should have a short, meaningful title.
+## Red/Green Stickies
+
